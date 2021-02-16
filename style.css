@@ -1,0 +1,17 @@
+.container {
+    text-align: center;
+}
+#app {
+    background-color: lavenderblush;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+#myCarousel {
+    background-color: lavenderblush;
+}
+#myCarousel img {
+    height: 500px;
+    margin-top: 35px;
+}
